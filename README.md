@@ -10,7 +10,7 @@
 
 - &nbsp;Programming student at UTN
 - &nbsp;I’m expanding my knowledge for front-end and back-end
-- &nbsp;I'm currently learning HTML/CSS/JavaScript and Python. 
+- &nbsp;I'm currently learning HTML/CSS,Java and Python. 
 - &nbsp;I’m always learning new things on the internet
 
 ### Connect with me
