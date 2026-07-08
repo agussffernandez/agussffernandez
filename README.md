@@ -16,6 +16,3 @@
 ### Connect with me
 [![Gmail](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agussffernandez@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/agustinafern%C3%A1ndez/)
-
-## 📈 Stats
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agussffernandez&theme=buefy&layout=compact&langs_count=10)
